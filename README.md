@@ -1,4 +1,11 @@
+<div align="center">
+  <img width="200" heigth="200" src="src/assets/logo.png" alt="Vue-logo">
+</div>
+
+
 # VVBanner Sample project
+
+[![npm version](https://badge.fury.io/js/%40supergose%2Fvv-banner.svg)](https://badge.fury.io/js/%40supergose%2Fvv-banner)
 
 A sample project to demonstrate how to bundle a vuejs stand-alone component.
 
