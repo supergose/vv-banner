@@ -1,6 +1,6 @@
 # VVBanner Sample project
 
-A sample project to demonstrate how to bundle a vuejs standalone component.
+A sample project to demonstrate how to bundle a vuejs stand-alone component.
 
 ## HOW-TO create a standalone Vue Component
 

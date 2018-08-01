@@ -1,6 +1,10 @@
 {
   "name": "@supergose/vv-banner",
   "license": "MIT",
+  "repository": {
+    "type" : "git"
+  , "url" : "https://github.com/supergose/vv-banner.git"
+  },
   "version": "0.1.3",
   "main": "./dist/vv-banner.common.js",
   "scripts": {
