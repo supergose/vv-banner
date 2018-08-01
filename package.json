@@ -5,7 +5,7 @@
     "type" : "git"
   , "url" : "https://github.com/supergose/vv-banner.git"
   },
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": "./dist/vv-banner.common.js",
   "keywords": [
     "vue",
